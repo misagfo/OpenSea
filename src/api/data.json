@@ -1,0 +1,158 @@
+{
+    "cards": [
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/05/00Lighthouse-Header-2048x1365.jpg",
+            "announce": "Announcement",
+            "title": "On Creator Fees",
+            "date": "November 6, 2022",
+            "text": "Update as of November 9, 2022: OpenSea will continue enforcing creator fees for all existing collections. For more information, please see our Twitter thread...."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/09/00_Cover_Chains-2048x1365.jpg",
+            "announce": "Announcement",
+            "title": "Our Efforts to Prevent NFT Theft",
+            "date": "June 14, 2022",
+            "text": "Trust and safety issues – specifically scams and theft – are some of the biggest barriers to broader NFT adoption today. At..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/09/1-2048x1153.png",
+            "announce": "Announcement",
+            "title": "Expanding the Global NFT Ecosystem: A Preview of Chain Expansion and Language Support",
+            "date": "November 6, 2022",
+            "text": "At OpenSea, we believe that NFTs are foundational technology that will eventually underpin thousands of use cases and industries. But today, their..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/09/01-Hero-Image-2048x1153.png",
+            "announce": "Announcement",
+            "title": "Drops on OpenSea: An Immersive and Secure Minting Experience",
+            "date": "August 9, 2022",
+            "text": "Since our founding in 2017, OpenSea has become the best place to explore the vast world of NFTs.  As we continue to..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/09/OS_signal.png",
+            "announce": "Announcement",
+            "title": "Introducing The New OpenSea Homepage",
+            "date": "May 20, 2022",
+            "text": "The homepage of OpenSea is often the first place people visit to explore the vast world of NFTs. We’re always looking for..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/08/Seaport_Polygon-2048x1152.jpg",
+            "announce": "Announcement",
+            "title": "Why We Don’t Mind the Dip(s)",
+            "date": "September 19, 2022",
+            "text": "When we started OpenSea in late 2017, we were realistic about a range of potential outcomes – from a niche community to..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/05/00Lighthouse-Header-2048x1365.jpg",
+            "announce": "Announcement",
+            "title": "Polygon and Klaytn on Seaport",
+            "date": "November 6, 2022",
+            "text": "In June, we introduced Seaport — a brand new, open-source, web3 marketplace protocol for safely and efficiently buying and selling NFTs. Launched..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/07/01Solana-BlogHeader.jpg",
+            "announce": "Announcement",
+            "title": "An Update on Verification and Copymint Prevention",
+            "date": "September 14, 2022",
+            "text": "As the NFT ecosystem evolves, OpenSea remains committed to improving trust and authenticity in the space. In May, we announced improvements to..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/06/OS_NFTNYC-2048x1365.jpg",
+            "announce": "Announcement",
+            "title": "Welcoming Chris Dixon to our Board of Directors",
+            "date": "November 6, 2022",
+            "text": "I’m excited to formally welcome Chris Dixon to the OpenSea Board of Directors. Chris has been extremely influential in shaping my views..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/05/Seaporot_Blogpost-2048x1365.jpg",
+            "announce": "Announcement",
+            "title": "Announcing OpenSea’s Solana Launchpad",
+            "date": "July 30, 2022",
+            "text": "The homepage of OpenSea is often the first place people visit to explore the vast world of NFTs. We’re always looking for..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/06/TS_Hidden-copy-2048x1365.jpg",
+            "announce": "Announcement",
+            "title": "Announcing OpenSea’s Solana Launchpad",
+            "date": "September 21, 2022",
+            "text": "The homepage of OpenSea is often the first place people visit to explore the vast world of NFTs. We’re always looking for...We believe in a multi-chain future where people on OpenSea have access to NFTs across a vast number of blockchains. In the..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/05/Collection-2048x1365.jpg",
+            "announce": "Announcement",
+            "title": "On Creator Fees",
+            "date": "November 6, 2022",
+            "text": "The homepage of OpenSea is often the first place people visit to explore the vast world of NFTs. We’re always looking for..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/02/76edde93ea6402d5818fbc03767aeda0.jpg",
+            "announce": "Announcement",
+            "title": "Important Update on Email Vendor Security Incident",
+            "date": "September 14, 2022",
+            "text": "We recently learned that an employee of Customer.io, our email delivery vendor, misused their employee access to download and share email addresses..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/05/00Verified_Header-2048x1365.jpg",
+            "announce": "Announcement",
+            "title": "The 2022 NFT Awards",
+            "date": "July 30, 2022",
+            "text": "The homepage of OpenSea is often the first place people visit to explore the vast world of NFTs. We’re always looking for...This year’s awards, sponsored by OpenSea, highlight top NFT creators and collections, community favorites and upcoming trends"
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/05/mNFTretro21-2048x1365.png",
+            "announce": "Announcement",
+            "title": "Launching Seaport & Saving the Community Millions in Fees",
+            "date": "August 9, 2022",
+            "text": "Today, OpenSea is migrating to Seaport, a new web3 marketplace protocol designed for safely and efficiently buying and selling NFTs. Seaport is..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/05/00Verified_Header-2048x1365.jpg",
+            "announce": "Announcement",
+            "title": "Our Efforts to Curb Fraud and Plagiarism – and What’s Next",
+            "date": "June 13, 2022",
+            "text": "I want to share my perspective on OpenSea’s efforts to protect against plagiarism, IP infringement, and fraud. We at OpenSea feel a..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/05/00Verified_Header-2048x1365.jpg",
+            "announce": "Announcement",
+            "title": "Hiding Suspicious NFT Transfers on OpenSea",
+            "date": "June 8, 2022",
+            "text": "In a recent blog post, Devin outlined the many efforts we’ve made – and are making – to address core Trust and..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/02/76edde93ea6402d5818fbc03767aeda0.jpg",
+            "announce": "Announcement",
+            "title": "Updating the OpenSea Experience",
+            "date": "May 26, 2022",
+            "text": "Updated as of 6/17 Starting today, we’re excited to reveal the first steps in a design refresh aimed at improving everyone’s OpenSea..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/06/Email-header-2048x1365.jpg",
+            "announce": "Announcement",
+            "title": "Introducing Seaport Protocol",
+            "date": "May 26, 2022",
+            "text": "Today, we’re excited to announce Seaport, a brand new web3 marketplace protocol for safely and efficiently buying and selling NFTs. We’re incredibly..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/05/Seaporot_Blogpost-2048x1365.jpg",
+            "announce": "Announcement",
+            "title": "Authenticity on OpenSea: Updates to Verification and Copymint Prevention",
+            "date": "April 6, 2022",
+            "text": "At OpenSea, we’re working around the clock to welcome more people into the world of NFTs. As the NFT ecosystem continues to..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/05/00Verified_Header-2048x1365.jpg",
+            "announce": "Announcement",
+            "title": "We’re Improving the OpenSea Verification Process",
+            "date": "April 25, 2022",
+            "text": "As the NFT ecosystem continues to evolve, imitation and plagiarism are growing issues that hinder trust in this space; in a recent..."
+        },
+        {
+            "img": "https://blogmigration.kinsta.cloud/wp-content/uploads/2022/05/00Lighthouse-Header-2048x1365.jpg",
+            "announce": "Announcement",
+            "title": "OpenSea Acquires Gem to Invest in ‘Pro’ Experience",
+            "date": "May 11, 2022",
+            "text": "To improve the user experience and invest in the future of the pro community, OpenSea has acquired Gem, the leading NFT marketplace..."
+        }
+    ]
+}
